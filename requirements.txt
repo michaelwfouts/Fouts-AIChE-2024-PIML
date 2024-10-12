@@ -1,0 +1,8 @@
+numpy
+jax
+pandas
+matplotlib
+torch
+jupyter
+ipykernel
+fokl==3.4.0
